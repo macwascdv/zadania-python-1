@@ -1,6 +1,6 @@
 import math
 print("""Witam w programie 'magiczna delta'.
-Wykorzystujemy tutaj postać 'delta = a^2-4bc'.
+Wykorzystujemy tutaj postać 'delta = b^2-4ac'.
 Postępuj zgodnie z instrukcjami zamieszczonymi na ekranie""")
 a =int(input("Wartość a wynosi = "))
 b =int(input("Wartość b wynosi = "))
